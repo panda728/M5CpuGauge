@@ -7,3 +7,14 @@ CpuGauge for M5Stack　
 PC Program for Windows
 https://github.com/panda728/M5CpuMetrics
 
+dataformat:
+
+001002003K004
+
+---
+001:cpu usage(%)
+002:memory usage(%)
+003:network total bytes
+K:bytes unit
+004:hdd usage(%)
+
