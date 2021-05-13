@@ -12,13 +12,13 @@ dataformat:
 001002003K004;
 
 ---
-001:cpu usage(%)
+001:cpu usage(%) (0-100)
 
-002:memory usage(%)
+002:memory usage(%) (0-100)
 
-003:network total bytes
+003:network total bytes (0-999)
 
 K:bytes unit
 
-004:hdd usage(%)
+004:hdd usage(%) (0-100)
 
