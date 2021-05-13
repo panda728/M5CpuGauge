@@ -13,8 +13,12 @@ dataformat:
 
 ---
 001:cpu usage(%)
+
 002:memory usage(%)
+
 003:network total bytes
+
 K:bytes unit
+
 004:hdd usage(%)
 
