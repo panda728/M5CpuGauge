@@ -7,6 +7,7 @@ CpuGauge for M5Stack　
 PC Program for Windows
 https://github.com/panda728/M5CpuMetrics
 
+---
 dataformat:
 
 001002003K004;
