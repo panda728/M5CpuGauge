@@ -9,7 +9,7 @@ https://github.com/panda728/M5CpuMetrics
 
 dataformat:
 
-001002003K004
+001002003K004;
 
 ---
 001:cpu usage(%)
